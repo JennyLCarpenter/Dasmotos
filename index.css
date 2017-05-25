@@ -1,0 +1,35 @@
+h1 {background-image: ./image1.jpeg;
+      font-family: Helvetica;
+      font-size: 100px;
+      font-weight: bold;
+      color: khaki;
+      text-align: center;
+    }
+#Brushes {font-family: Helvetica;
+          font-size: 32px;
+          font-weight: bold;
+          color: white;
+          background-color: mediumspringgreen;
+        }
+#Frames {background-color: lightcoral;
+        font-family: Helvetica;
+        font-size: 32px;
+        font-weight: bold;
+        color: white;
+      }
+#Paint {background-color: skyblue;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+p {font-family: Helvetica;
+  font-size: 12px;
+}
+.pricing {color: blue;
+          font-family: Helvetica;
+          font-weight: bold;
+          font-size: 12px;
+          }
+h3 {font-weight: bold;
+}
